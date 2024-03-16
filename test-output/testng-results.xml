@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42877" started-at="2024-03-16T12:30:45 IST" finished-at="2024-03-16T12:31:28 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42877" started-at="2024-03-16T12:30:45 IST" finished-at="2024-03-16T12:31:28 IST">
+      <class name="basic.ContactTest">
+        <test-method status="PASS" signature="createContact()[pri:0, instance:basic.ContactTest@6121c9d6]" name="createContact" duration-ms="42792" started-at="2024-03-16T12:30:45 IST" finished-at="2024-03-16T12:31:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContact -->
+      </class> <!-- basic.ContactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
